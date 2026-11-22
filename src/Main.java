@@ -9,5 +9,6 @@ public class Main {
  */
 
 /*
-Service Class: customerName, barberName, date, startTime, service
+Service Class: name, durationMinutes
+Appointment Class: customerName, barberName, date, startTime, service
  */
