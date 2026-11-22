@@ -8,4 +8,6 @@ public class Main {
 -Customers can cancel appointments.
  */
 
-//test
+/*
+Service Class: customerName, barberName, date, startTime, service
+ */
