@@ -11,4 +11,6 @@ public class Main {
 /*
 Service Class: name, durationMinutes
 Appointment Class: customerName, barberName, date, startTime, service
+BookingManager Class: Fields: appointments (a collection of Appointment objects)
+Methods: bookAppointment(), cancelAppointment(), getAvailableSlots()
  */
