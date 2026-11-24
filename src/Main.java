@@ -1,4 +1,11 @@
 public class Main {
+
+    public class Service {
+
+        // Declare two private fields
+        // constructor
+        //displayInfo() method
+    }
 }
 /*
 -Customers can book appointments.
