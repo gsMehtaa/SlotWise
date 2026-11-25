@@ -2,11 +2,29 @@ public class Main {
 
     public class Service {
 
+            private String name;
+            private int durationMinutes;
+
+            public Service(String name, int durationMinutes) {
+                this.name = name;
+
+
+            }
+
+            public void displayInfo() {
+
+                System.out.println("Service: " + name);
+
+
+            }
+        }
+
         // Declare two private fields
         // constructor
         //displayInfo() method
     }
-}
+
+
 /*
 -Customers can book appointments.
 -Each appointment lasts 30 minutes.
