@@ -2,28 +2,14 @@ public class Main {
 
     public class Service {
 
-            private String name;
-            private int durationMinutes;
-
-            public Service(String name, int durationMinutes) {
-                this.name = name;
-
-
-            }
-
-            public void displayInfo() {
-
-                System.out.println("Service: " + name);
-
-
             }
         }
 
         // Declare two private fields
         // constructor
         //displayInfo() method
-    }
 
+//temporary commit
 
 /*
 -Customers can book appointments.
