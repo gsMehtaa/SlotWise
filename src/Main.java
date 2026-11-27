@@ -3,7 +3,11 @@ public class Main {
     public class Service {
 
             }
+            public void DisplayInfo(){
+
+            }
         }
+
 
         // Declare two private fields
         // constructor
