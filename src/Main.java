@@ -13,7 +13,7 @@ public class Main {
         // constructor
         //displayInfo() method
 
-//temporary commit
+//temp
 
 /*
 -Customers can book appointments.
