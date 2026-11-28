@@ -2,30 +2,12 @@ public class Main {
 
     public class Service {
 
-            }
-            public void DisplayInfo(){
-
-            }
-        }
+        private String name;
+        private int duration;
+        private double price;
 
 
-        // Declare two private fields
-        // constructor
-        //displayInfo() method
+    }
 
-//temp
+}
 
-/*
--Customers can book appointments.
--Each appointment lasts 30 minutes.
--The shop operates from 9:00 AM to 5:00 PM.
--Two customers cannot book the same barber for overlapping appointments.
--Customers can cancel appointments.
- */
-
-/*
-Service Class: name, durationMinutes
-Appointment Class: customerName, barberName, date, startTime, service
-BookingManager Class: Fields: appointments (a collection of Appointment objects)
-Methods: bookAppointment(), cancelAppointment(), getAvailableSlots()
- */
